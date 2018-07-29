@@ -1,7 +1,7 @@
 # allegro-content
- RESTful web application using Spring
+ RESTful web application written in Spring :leaves:
 
-Simple REST application to load movies. Add, delete and update single movie.
+Simple REST application for adding, deleting and updating movies.
 
 Tool for testing application: [Postman](https://www.getpostman.com/)
 
